@@ -25,5 +25,6 @@ interface PrintQuotient {
 }
 
 interface PerfectSquare {
+    // Shahil --> I learned how to use lambda notion in java 8 via use of method declaration within a function declaration and learned how to use return statements within Lambda notion. I also learned how to commit, push and pull edits to github from a remote locatino and how to clone, and work simultaneously with another person on a github/coding project.
     boolean checkPerfectSquare(int n);
 }
